@@ -9,4 +9,5 @@ System analysis and design
 ### Technical Background
 * previously held a position as a software tester at Veeserv Technologies in India. While my role primarily focused on software testing, I do not possess any programming experience.But I have programming knowledge in Python,Sql,C.
 ### Favourite meme
-![Favourite meme](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fpgaswdp5iop51.jpg)
+
+![pgaswdp5iop51](https://github.com/shankymurali/CIS641-HW2-Sundaram/assets/120148095/6a00ac3c-cae2-4ddb-97e4-b24e42e5f3c8)
