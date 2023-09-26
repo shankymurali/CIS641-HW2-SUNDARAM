@@ -3,7 +3,7 @@
 System analysis and design
 # ShankariSundaram
 ### My interests
-+ Coooking new cuisines
++ Cooking new cuisines
 + Learning new things
 + Reading books
 ### Technical Background
