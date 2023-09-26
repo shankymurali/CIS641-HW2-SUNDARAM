@@ -3,7 +3,7 @@
 System analysis and design
 # ShankariSundaram
 ### My interests
-+ Coooking new cuisines
++ Cooking new cuisines
 + Learning new things
 + Reading books
 ### Technical Background
@@ -15,3 +15,4 @@ System analysis and design
 <br />
 # [Assignment Website](https://shankymurali.github.io/CIS641-HW2-Sundaram/Index.html)
 
+![pgaswdp5iop51](https://github.com/shankymurali/CIS641-HW2-Sundaram/assets/120148095/6a00ac3c-cae2-4ddb-97e4-b24e42e5f3c8)
