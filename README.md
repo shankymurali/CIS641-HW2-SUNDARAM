@@ -14,8 +14,4 @@ System analysis and design
 ![Favourite meme](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fpgaswdp5iop51.jpg)
 
 
-<<<<<<< HEAD
-=======
 
-
->>>>>>> 4b3eac6fd967dc07512aa12618b38fa4a2ec1e4f
